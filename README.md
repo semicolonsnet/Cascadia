@@ -11,4 +11,4 @@ A set of templates and other assets designed to create a consistent, user-access
 
 - Tufte Handout: A document layout inspired by the practice of Edward Tufte relying on heavy use of side notes (due to Word limitations, side notes sit in text boxes - I recommend you copy/paste the example side note and format to your needs).
 
-![Image of Tufte Handout](examples/Tufte Handout.png)
+![Tufte](examples/Tufte Handout.png)
