@@ -11,6 +11,6 @@ Outline: A colorful outline format with APA-compatible numbering designed to sup
 
 Tufte Handout: A document layout inspired by the practice of Edward Tufte relying on heavy use of side notes (due to Word limitations, side notes sit in text boxes - I recommend you copy/paste the example side note and format to your needs).
 
-![Tufte](Examples/Tufte.png)
+![Tufte](examples/tufte.png)
 
 
