@@ -1,9 +1,9 @@
-A set of templates and other assets designed to create a consistent, user-accessible, and naturalistic style for documents both physical and on the modern web.
+A set of templates for Microsoft Office designed to create a consistent, user-accesisble, and naturalistic style for documents viewed both in print and on screens.
 
 ## Features
 - A earth toned, tetrad-based color scheme with text colors that meet [WCAG AAA guidelines](http://colorsafe.co/) when used on a #ffffff background.
 - In Word templates, heavy use of the [Styles](https://support.office.com/en-us/article/Customize-or-create-new-styles-d38d6e47-f6fc-48eb-a607-1eb120dec563) feature to ease common formatting and cross-system compatibility.
-- Unique typography using [SIL Open Font License](https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) families [Lato by Łukasz Dziedzic](http://www.latofonts.com/lato-free-fonts/) (sans) and [PT Serif by Alexandra Korolkova and colleagues](https://old.paratype.com/public/) (serifs). 
+- Use of fonts included with Microsoft Office to maxmize compatibility when sending files to others. If you have more creative freedom, I encourage you to fork the project and substitue other type families or build in other unique elements of branding.
 
 ## Word Templates
 
@@ -11,7 +11,13 @@ A set of templates and other assets designed to create a consistent, user-access
 
 ![Outline](examples/outline.png)
 
-A colorful outline format with APA-compatible numbering designed to support casual brainstorming.
+An outline format with APA-compatible numbering designed to support casual brainstorming.
+
+### Colorful Outline
+
+![Colorful Outline](examples/colorfuloutline.png)
+
+Like Outline, but with colors. I find the colors make things easier to read; your milage may vary.
 
 ### Tufte
 
