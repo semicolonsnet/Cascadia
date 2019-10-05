@@ -9,19 +9,25 @@ A set of templates for Microsoft Office designed to create a consistent, user-ac
 
 ### Outline
 
-![Outline](examples/outline.png?s=200)
+<p align="center">
+  <img src="examples/outline.png" alt="Outline" width="500">
+</p>
 
 An outline format with APA-compatible numbering designed to support casual brainstorming.
 
 ### Colorful Outline
 
-![Colorful Outline](examples/colorfuloutline.png)
-
+<p align="center">
+  <img src="examples/colorfuloutline.png" alt="Colorful Outline" width="500">
+  </p>
+  
 Like Outline, but with colors. I find the colors make things easier to read; your milage may vary.
 
 ### Tufte
 
-![Tufte](examples/tufte.png)
+<p align="center">
+  <img src="examples/tufte.png" alt="Tufte" width="500">
+</p>
 
 A handout layout inspired by the practice of [Edward Tufte](https://www.edwardtufte.com) relying on heavy use of side notes (due to Word limitations, side notes sit in text boxes - I recommend you copy/paste the example side note and format to your needs).
 
