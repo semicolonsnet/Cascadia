@@ -9,7 +9,7 @@ A set of templates for Microsoft Office designed to create a consistent, user-ac
 
 ### Outline
 
-![Outline](examples/outline.png | width=200)
+![Outline](examples/outline.png?s=200)
 
 An outline format with APA-compatible numbering designed to support casual brainstorming.
 
