@@ -1,4 +1,4 @@
-A set of templates for Microsoft Office designed to create a consistent, user-accesisble, and naturalistic style for documents viewed both in print and on screens.
+A set of templates and other assets designed to create a consistent, user-accessible, and naturalistic style for physical documents viewer on paper and on screen.
 
 ## Features
 - A earth toned, tetrad-based color scheme with text colors that meet [WCAG AAA guidelines](http://colorsafe.co/) when used on a #ffffff background.
