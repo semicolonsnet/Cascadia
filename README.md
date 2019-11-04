@@ -1,4 +1,4 @@
-A set of templates and other assets designed to create a consistent, user-accessible, and naturalistic style for physical documents viewer on paper and on screen.
+A set of templates and other assets designed to create a consistent, user-accessible, and naturalistic style for physical documents viewed on paper and on screen.
 
 ## Features
 - Serif: Palatino Linotype, designed by Hermann Zapf for Microsoft to adapt Palatino to digital publishing. Use of a common font built into Microsoft Office helps maxmize compatibility when sending files to others. If you have more creative freedom, I encourage you to fork the project and substitue other type families or build in other unique elements of branding.
