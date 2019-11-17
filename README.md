@@ -48,6 +48,13 @@ A wide margined, easy-to-read style for longer narrative documents.
 
 A handout layout inspired by the practice of [Edward Tufte](https://www.edwardtufte.com) relying on heavy use of side notes (due to Word limitations, side notes sit in text boxes - I recommend you copy/paste the example side note and format to your needs).
 
+### Vita
+
+<p align="center">
+  <img src="examples/vita.png" alt="Vita" width="500">
+</p>
+
+A resume or CV template with strong font contrasts to highlight key information.
 
 ## Powerpoint Templates
 
