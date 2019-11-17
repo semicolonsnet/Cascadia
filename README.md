@@ -49,4 +49,12 @@ A wide margined, easy-to-read style for longer narrative documents.
 A handout layout inspired by the practice of [Edward Tufte](https://www.edwardtufte.com) relying on heavy use of side notes (due to Word limitations, side notes sit in text boxes - I recommend you copy/paste the example side note and format to your needs).
 
 
+## Powerpoint Templates
 
+### Impact
+
+<p align="center">
+  <img src="examples/impact.png" alt="Impact" width="500">
+</p>
+
+A slide template using large symbols to highlight key questions, information, and quotations.
